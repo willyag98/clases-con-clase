@@ -28,6 +28,7 @@ songs: ["una cancion"],
 const unaBanda = new Banda(["marce"],[unAlbum, unAlbum, unAlbum,]);
 //console.log(unaBanda.members);
 console.log(unaBanda.albums);
+console.log("otro cambio")
 }
 
 main();
